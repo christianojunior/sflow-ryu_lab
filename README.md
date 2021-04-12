@@ -7,6 +7,15 @@ Esse é um repositorio que armazena a documentação e os arquivos necessários 
 
 # instruções
 
+```
+git clone https://github.com/christianojunior/sflow-ryu_lab.git
+```
+Vá para a pasta resultante, dentro dela rode o comando
+```
+vagrant up
+```
+Aguarde alguns minutos enquanto o vagrant baixa a imagem do repositorio, e provisiona a mesma.
+
 # Para mais informações
 
 Site oficial do mininet:  
