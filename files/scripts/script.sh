@@ -14,3 +14,5 @@ usermod -aG docker vagrant
 source /home/vagrant/.profile
 docker network create --subnet=172.18.0.0/16 docker_network
 apt-get install -y hping3
+wget https://raw.githubusercontent.com/christianojunior/sflow-ryu_lab/main/files/dockerfiles/sflow/Dockerfile -P /home/vagrant/sflow
+wget https://raw.githubusercontent.com/christianojunior/sflow-ryu_lab/main/files/dockerfiles/ryu/Dockerfile -P /home/vagrant/ryu
