@@ -9,11 +9,11 @@ Esse é um repositorio que armazena a documentação e os arquivos necessários 
 
 # Para mais informações
 
-Site oficial do mininet:
-http://mininet.org/
-Site do sFlow-rt, com outras aplicações para download disponiveis:
-https://sflow-rt.com/download.php
-Site oficial do RYU:
-https://ryu-sdn.org/
-Blogpost no qual este repositorio foi baseado:
-https://blog.sflow.com/2018/10/ryu-measurement-based-control.html
+Site oficial do mininet:  
+http://mininet.org/  
+Site do sFlow-rt, com outras aplicações para download disponiveis:  
+https://sflow-rt.com/download.php  
+Site oficial do RYU:  
+https://ryu-sdn.org/  
+Blogpost no qual este repositorio foi baseado:  
+https://blog.sflow.com/2018/10/ryu-measurement-based-control.html  
