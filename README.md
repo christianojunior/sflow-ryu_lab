@@ -40,8 +40,8 @@ Enquanto que na sessão mininet rode
 ```
 h1 hping3 --flood --udp -k -s 53 h3
 ```
-Esse comando realizara um ataque flood, que será detectado e lidado com via mudança nas flow tables.
-Para observar isso basta acessar ipdasuamaquinavirtual:8008/app/mininet-dashboard/html/index.html
+Esse comando realizara um ataque flood, que será detectado e lidado com via mudança nas flow tables.  
+Para observar isso basta acessar ipdasuamaquinavirtual:8008/app/mininet-dashboard/html/index.html  
 O script provisionador automaticamente baixa os Dockerfiles neste repositorio na maquina virtual, caso deseja utilizar os dockerfiles ao invés de puxar do repositorio do dockerhub, sinta-se a vontade.
 # Para mais informações
 
